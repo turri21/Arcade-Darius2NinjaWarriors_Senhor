@@ -1,3 +1,8 @@
+-=(Darius2NinjaWarriors_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Arcade-Darius2NinjaWarriors_MiSTer
 
 FPGA core for **Darius II** (Taito Corporation, 1989) and **The Ninja Warriors**
